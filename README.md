@@ -7,6 +7,11 @@ The project focuses on implementing the core game mechanics without external lib
 
 ---
 
+<img width="1215" height="898" alt="image" src="https://github.com/user-attachments/assets/f970e36a-db62-4e52-8fad-e68cae52a251" />
+
+---
+
+
 ## Features
 
 * 🎮 Classic 8×8 Checkers board
